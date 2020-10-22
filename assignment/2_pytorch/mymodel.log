@@ -1,0 +1,46 @@
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Train Epoch: 1 [0/49000 (0%)]	Train Loss: 2.411108	Val Loss: 3.617554	Val Acc: 9.0
+Train Epoch: 1 [5120/49000 (10%)]	Train Loss: 2.309685	Val Loss: 2.296456	Val Acc: 11.899999618530273
+Train Epoch: 1 [10240/49000 (21%)]	Train Loss: 2.286316	Val Loss: 2.250002	Val Acc: 14.300000190734863
+Train Epoch: 1 [15360/49000 (31%)]	Train Loss: 2.187076	Val Loss: 2.164911	Val Acc: 15.899999618530273
+Train Epoch: 1 [20480/49000 (42%)]	Train Loss: 2.127178	Val Loss: 2.116213	Val Acc: 15.199999809265137
+Train Epoch: 1 [25600/49000 (52%)]	Train Loss: 1.999004	Val Loss: 1.941995	Val Acc: 23.0
+Train Epoch: 1 [30720/49000 (62%)]	Train Loss: 1.869509	Val Loss: 1.826792	Val Acc: 27.100000381469727
+Train Epoch: 1 [35840/49000 (73%)]	Train Loss: 1.882359	Val Loss: 1.908456	Val Acc: 27.5
+Train Epoch: 1 [40960/49000 (83%)]	Train Loss: 1.752666	Val Loss: 1.705443	Val Acc: 34.900001525878906
+Train Epoch: 1 [46080/49000 (94%)]	Train Loss: 1.654655	Val Loss: 1.627546	Val Acc: 36.79999923706055
+Train Epoch: 2 [0/49000 (0%)]	Train Loss: 2.893888	Val Loss: 1.792265	Val Acc: 33.29999923706055
+Train Epoch: 2 [5120/49000 (10%)]	Train Loss: 1.632181	Val Loss: 1.600665	Val Acc: 38.70000076293945
+Train Epoch: 2 [10240/49000 (21%)]	Train Loss: 1.573589	Val Loss: 1.554035	Val Acc: 42.400001525878906
+Train Epoch: 2 [15360/49000 (31%)]	Train Loss: 1.589499	Val Loss: 1.514655	Val Acc: 37.5
+Train Epoch: 2 [20480/49000 (42%)]	Train Loss: 1.439389	Val Loss: 1.439771	Val Acc: 45.29999923706055
+Train Epoch: 2 [25600/49000 (52%)]	Train Loss: 1.420650	Val Loss: 1.466408	Val Acc: 45.5
+Train Epoch: 2 [30720/49000 (62%)]	Train Loss: 1.312032	Val Loss: 1.309253	Val Acc: 51.400001525878906
+Train Epoch: 2 [35840/49000 (73%)]	Train Loss: 1.303672	Val Loss: 1.373037	Val Acc: 48.900001525878906
+Train Epoch: 2 [40960/49000 (83%)]	Train Loss: 1.206784	Val Loss: 1.253911	Val Acc: 52.0
+Train Epoch: 2 [46080/49000 (94%)]	Train Loss: 1.255957	Val Loss: 1.213034	Val Acc: 54.099998474121094
+Train Epoch: 3 [0/49000 (0%)]	Train Loss: 3.296648	Val Loss: 1.329883	Val Acc: 52.900001525878906
+Train Epoch: 3 [5120/49000 (10%)]	Train Loss: 1.109788	Val Loss: 1.231492	Val Acc: 53.5
+Train Epoch: 3 [10240/49000 (21%)]	Train Loss: 1.237958	Val Loss: 1.121611	Val Acc: 60.5
+Train Epoch: 3 [15360/49000 (31%)]	Train Loss: 1.070745	Val Loss: 1.034719	Val Acc: 65.0
+Train Epoch: 3 [20480/49000 (42%)]	Train Loss: 1.060960	Val Loss: 1.025117	Val Acc: 61.900001525878906
+Train Epoch: 3 [25600/49000 (52%)]	Train Loss: 1.009702	Val Loss: 1.030569	Val Acc: 63.29999923706055
+Train Epoch: 3 [30720/49000 (62%)]	Train Loss: 1.010222	Val Loss: 0.994888	Val Acc: 64.0999984741211
+Train Epoch: 3 [35840/49000 (73%)]	Train Loss: 1.113140	Val Loss: 0.963342	Val Acc: 66.9000015258789
+Train Epoch: 3 [40960/49000 (83%)]	Train Loss: 1.040228	Val Loss: 0.951186	Val Acc: 67.69999694824219
+Train Epoch: 3 [46080/49000 (94%)]	Train Loss: 0.877496	Val Loss: 0.960839	Val Acc: 65.5
+Train Epoch: 4 [0/49000 (0%)]	Train Loss: 3.122797	Val Loss: 1.214282	Val Acc: 57.5
+Train Epoch: 4 [5120/49000 (10%)]	Train Loss: 0.947084	Val Loss: 1.068135	Val Acc: 63.900001525878906
+Train Epoch: 4 [10240/49000 (21%)]	Train Loss: 0.878787	Val Loss: 0.914405	Val Acc: 66.69999694824219
+Train Epoch: 4 [15360/49000 (31%)]	Train Loss: 0.829553	Val Loss: 0.934126	Val Acc: 67.5999984741211
+Train Epoch: 4 [20480/49000 (42%)]	Train Loss: 0.916672	Val Loss: 0.875370	Val Acc: 68.0
+Train Epoch: 4 [25600/49000 (52%)]	Train Loss: 0.804490	Val Loss: 0.840550	Val Acc: 69.30000305175781
+Train Epoch: 4 [30720/49000 (62%)]	Train Loss: 0.812151	Val Loss: 0.847375	Val Acc: 69.80000305175781
+Train Epoch: 4 [35840/49000 (73%)]	Train Loss: 0.740790	Val Loss: 0.841657	Val Acc: 69.5999984741211
+Train Epoch: 4 [40960/49000 (83%)]	Train Loss: 0.847732	Val Loss: 0.802589	Val Acc: 71.0999984741211
+Train Epoch: 4 [46080/49000 (94%)]	Train Loss: 0.750306	Val Loss: 0.872972	Val Acc: 69.9000015258789
+
+test set: Average loss: 0.8157, Accuracy: 7153/10000 (72%)
+
